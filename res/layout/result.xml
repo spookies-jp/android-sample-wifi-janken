@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical" android:gravity="center" android:id="@+id/result_image" android:onClick="onResultOkButtonClicked" android:layout_width="fill_parent" android:layout_height="fill_parent">
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Button" android:layout_marginBottom="50dp" android:id="@+id/enemy_image"/>
+    <ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/result_text"></ImageView>
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Button" android:layout_marginTop="50dp" android:id="@+id/self_image"/>
+</LinearLayout>

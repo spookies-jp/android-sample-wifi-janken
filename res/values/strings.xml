@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wi-Fiじゃんけん</string>
+    <string name="empty"></string>
+    <string name="disconnected">切断されました</string>
+    <string name="not_found">接続失敗</string>
+    <string name="error">エラー</string>
+    <string name="connecting">接続中</string>
+    <string name="disconnect">切断しました</string>
+    <string name="notice">通知</string>
+    <string name="wifi_not_connected">Wi-Fi接続されていません</string>
+    <string name="ok">決定</string>
+    <string name="cancel">キャンセル</string>
+</resources>
